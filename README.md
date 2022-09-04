@@ -2,9 +2,9 @@
 
 <!--
 **Rajdave69/Rajdave69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+-->
 - 🔭 I’m currently working on [GCR Renamer](https://github.com/Rajdave69/GCR-Renamer) and [BPS Circular API](https://github.com/BPS-Circular-API)
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **anything Open Source**
