@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajdave69&show_icons=true&locale=en&layout=compact" alt="Parag Pallav Singh Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajdave69&show_icons=true&locale=en&layout=compact" alt="RajDave69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajdave69&show_icons=true&locale=en" alt="Jagratkatara" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajdave69&show_icons=true&locale=en" alt="RajDave69" width="410" /></p>
 
