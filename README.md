@@ -29,3 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdave69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 
+Btw No, I'm not dead. School has consumed me, I no longer have free time to work on personal coding projects :(
